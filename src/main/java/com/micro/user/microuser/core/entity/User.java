@@ -22,6 +22,7 @@ public class User extends AbstractUuidJpaEntity {
 
     private String account;
 
+
     private String password;
 
     private String headIcon;
